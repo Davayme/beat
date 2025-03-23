@@ -4,7 +4,7 @@ import Ionicons from '@expo/vector-icons/Ionicons';
 export default function TabLayout() {
   return (
     <Tabs
-      initialRouteName="index" // Asegura que "Escanear" sea el tab inicial
+      initialRouteName="index" 
       screenOptions={{
         tabBarActiveTintColor: '#1DB954', // Verde de Spotify
         tabBarInactiveTintColor: '#b3b3b3', // Gris tenue
